@@ -6,3 +6,9 @@ Una aplicacion de chat usando el protocolo de WebSockets. Incluye un backend en 
 [Backend](https://github.com/niitroxendioxide/chatappbackend)
 
 El proyecto tambien incluye una presentacion en WebSockets y una pequeña investigacion.
+
+Integrantes:
+
+- Benicio Verdun
+- Juan Dragan
+- Joaquin Fernandez
